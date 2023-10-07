@@ -2,8 +2,8 @@
 layout: post
 title: Tech Stuff example
 color: rgb(250, 50, 50)
-feature-img: "assets/img/feature-img/circuit.jpeg"
-thumbnail: "assets/img/thumbnails/feature-img/circuit.jpeg"
+feature-img: "https://cdn.midjourney.com/d0417786-4f9c-43b2-bd4c-1dcb49692c3b/0_1.png"
+thumbnail: "https://cdn.midjourney.com/d0417786-4f9c-43b2-bd4c-1dcb49692c3b/0_1.png"
 tags: [Mermaid, Highlight, Markdown]
 ---
 
